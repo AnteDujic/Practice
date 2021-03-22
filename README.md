@@ -10,6 +10,8 @@ Write a program that calculates somebody’s Body Mass Index (BMI)
 -	The inputs are the person's height in centimetres and weight in kilograms
 -	The output is their weight divided by their height in metres squared
 
-' height = float (input ("Enter height (cm): "))               
+'''
+height = float (input ("Enter height (cm): "))               
 weight = float (input ("Enter weight (kg): "))
-BMI = round((weight/((height/100)**2)),2) '
+BMI = round((weight/((height/100)**2)),2)
+'''
