@@ -1,5 +1,11 @@
-# Practice
+# MODULE: Programming and Scripting
+# WEEKLY TASKS
+# AUTHOR: Ante Dujic
 
-## Task 1
+This README file contains explanation of the code written to solve the problems assigned in weekly tasks for Programming and Scripting Module.
 
-### In the task
+## WEEK 2
+•	bmi.py
+Write a program that calculates somebody’s Body Mass Index (BMI)
+-	The inputs are the person's height in centimetres and weight in kilograms
+-	The output is their weight divided by their height in metres squared
