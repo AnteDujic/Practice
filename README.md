@@ -29,4 +29,4 @@ _Program asks the user to input height (cm) and weight (kg) as a float number. I
 -	https://www.w3schools.com/python/ref_func_round.asp
 -	https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792
 
-![alt text] (https://github.com/AnteDujic/pands-problem-sheet/blob/main/functionsPlot.png)
+![alt text](https://github.com/AnteDujic/pands-problem-sheet/blob/main/functionsPlot.png)
