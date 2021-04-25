@@ -51,4 +51,4 @@ Iris SpeciesThis is how you dropdown.
 </details>
 
 
-![alt-text-1](https://github.com/AnteDujic/pands-project2021/blob/main/speciesBar.png) | width = 100 ![alt-text-2](https://github.com/AnteDujic/pands-project2021/blob/main/speciesPie.png) width = 100
+![alt-text-1](https://github.com/AnteDujic/pands-project2021/blob/main/speciesBar.png | width = 100) ![alt-text-2](https://github.com/AnteDujic/pands-project2021/blob/main/speciesPie.png | width = 100)
