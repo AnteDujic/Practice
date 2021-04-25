@@ -30,3 +30,20 @@ _Program asks the user to input height (cm) and weight (kg) as a float number. I
 -	https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792
 
 ![alt text](https://github.com/AnteDujic/pands-problem-sheet/blob/main/functionsPlot.png)
+
+- *shape()* returns the shape of an array (dataset) - *shape[0]* gives the number of rows, and *shape[1]* the number of columns
+
+<details>
+<summary>OUTPUT</summary>
+<br>
+---
+This data set consists of 150 samples, grouped by 5 different variables.
+
+Dataset variables are:
+Sepal Length (cm)
+Sepal Width (cm)
+Petal Length (cm)
+Petal Width (cm)
+Iris SpeciesThis is how you dropdown.
+---
+</details>
