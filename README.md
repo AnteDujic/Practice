@@ -50,7 +50,7 @@ Iris SpeciesThis is how you dropdown.
 
 </details>
 
-<p float="left">
+<p float="center">
   <img src="https://github.com/AnteDujic/pands-project2021/blob/main/speciesBar.png" width="400" />
   <img src="https://github.com/AnteDujic/pands-project2021/blob/main/speciesPie.png" width="400" /> 
 </p>
